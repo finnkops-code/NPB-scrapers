@@ -1,0 +1,132 @@
+{
+  "bijgewerkt": "2026-09-14T12:44:28Z",
+  "bron": {
+    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20260913.html",
+    "today": "https://npb.jp/bis/eng/2026/games/gm20260914.html"
+  },
+  "season": 2026,
+  "results": [
+    {
+      "league": "central",
+      "date": "2026-09-13",
+      "game_number": 22,
+      "venue": "Jingu",
+      "start_time": null,
+      "away_team": "Tokyo Yakult Swallows",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_s_l.gif",
+      "away_score": 3,
+      "home_team": "Hiroshima Toyo Carp",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
+      "home_score": 1,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026091301434.html"
+    },
+    {
+      "league": "central",
+      "date": "2026-09-13",
+      "game_number": 22,
+      "venue": "Yokohama",
+      "start_time": null,
+      "away_team": "YOKOHAMA DeNA BAYSTARS",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_db_l.gif",
+      "away_score": 5,
+      "home_team": "Yomiuri Giants",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_g_l.gif",
+      "home_score": 0,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026091301435.html"
+    },
+    {
+      "league": "central",
+      "date": "2026-09-13",
+      "game_number": 23,
+      "venue": "Koshien",
+      "start_time": null,
+      "away_team": "Hanshin Tigers",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
+      "away_score": 0,
+      "home_team": "Chunichi Dragons",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_d_l.gif",
+      "home_score": 1,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026091301436.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-13",
+      "game_number": 24,
+      "venue": "Belluna Dome",
+      "start_time": null,
+      "away_team": "Saitama Seibu Lions",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_l_l.gif",
+      "away_score": 1,
+      "home_team": "Hokkaido Nippon-Ham Fighters",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_f_l.gif",
+      "home_score": 7,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026091301791.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-13",
+      "game_number": 23,
+      "venue": "MIZUHO PayPay",
+      "start_time": null,
+      "away_team": "Fukuoka SoftBank Hawks",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_h_l.gif",
+      "away_score": 7,
+      "home_team": "Chiba Lotte Marines",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_m_l.gif",
+      "home_score": 4,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026091301792.html"
+    }
+  ],
+  "schedule": [
+    {
+      "league": "central",
+      "date": "2026-09-14",
+      "game_number": null,
+      "venue": "Jingu",
+      "start_time": "18:00",
+      "away_team": "Tokyo Yakult Swallows",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_s_l.gif",
+      "away_score": null,
+      "home_team": "Hiroshima Toyo Carp",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
+      "home_score": null,
+      "played": false,
+      "boxscore_url": null
+    },
+    {
+      "league": "central",
+      "date": "2026-09-14",
+      "game_number": null,
+      "venue": "Yokohama",
+      "start_time": "18:00",
+      "away_team": "YOKOHAMA DeNA BAYSTARS",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_db_l.gif",
+      "away_score": null,
+      "home_team": "Yomiuri Giants",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_g_l.gif",
+      "home_score": null,
+      "played": false,
+      "boxscore_url": null
+    },
+    {
+      "league": "central",
+      "date": "2026-09-14",
+      "game_number": null,
+      "venue": "Koshien",
+      "start_time": "18:00",
+      "away_team": "Hanshin Tigers",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
+      "away_score": null,
+      "home_team": "Chunichi Dragons",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_d_l.gif",
+      "home_score": null,
+      "played": false,
+      "boxscore_url": null
+    }
+  ]
+}
