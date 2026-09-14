@@ -1,10 +1,9 @@
-name: NPB standings scraper
+name: NPB schedule scraper
 
 on:
   schedule:
-    # 13:00 UTC = 22:00 in Japan (Asia/Tokyo, UTC+9) — na afloop van de
-    # meeste NPB-wedstrijden van die dag.
-    - cron: '0 13 * * *'
+    # 00:00 UTC = 09:00 in Japan (Asia/Tokyo, UTC+9), zoals gevraagd.
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,13 +24,13 @@ jobs:
       - name: Installeer dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Standen scrapen
-        run: python npb_standings_scraper.py
+      - name: Schedule en uitslagen scrapen
+        run: python npb_schedule_scraper.py
 
       - name: Wijzigingen committen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add npb_standings.json
-          git diff --staged --quiet || git commit -m "Update NPB standen"
+          git add npb_schedule.json
+          git diff --staged --quiet || git commit -m "Update NPB schedule/uitslagen"
           git push
