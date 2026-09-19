@@ -1,0 +1,84 @@
+# ============================================================
+# NPB Scrapers — combined workflow
+# ============================================================
+# Runs all three NPB scraper scripts in one workflow (player
+# stats, schedule, and standings), then commits the updated JSON
+# files back to the repo in a single commit, only if something
+# actually changed.
+#
+# HOW TO USE
+# 1. Save this file as .github/workflows/npb-scrapers.yml
+#    (replacing/renaming the old single-scraper workflow file).
+# 2. Adjust the cron schedule below to however often you want
+#    fresh NPB data (currently every 6 hours).
+# 3. Adjust the "Install dependencies" step: this assumes a
+#    requirements.txt exists at the repo root. If your scrapers
+#    only use the standard library plus `requests` (a common case
+#    for simple scrapers), the fallback line covers that. Add any
+#    other libraries your scripts import (e.g. beautifulsoup4,
+#    lxml, pandas) to requirements.txt or the fallback line.
+# 4. Each scraper step uses `continue-on-error: true` so that if
+#    one scraper fails (e.g. the NPB site is temporarily down),
+#    the other two still run and their JSON files still get
+#    committed, instead of the whole workflow stopping early.
+# ============================================================
+
+name: NPB Scrapers
+
+on:
+  schedule:
+    # Runs every 6 hours. Adjust to taste, e.g. "0 */3 * * *" for
+    # every 3 hours, or "0 6,18 * * *" for twice a day.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  # Lets you trigger a run manually from the Actions tab in GitHub.
+
+permissions:
+  contents: write
+  # Required so the workflow can push the updated JSON files
+  # back to the repo using the built-in GITHUB_TOKEN.
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests beautifulsoup4 lxml
+          fi
+
+      - name: Run player stats scraper
+        continue-on-error: true
+        run: python npb_player_stats_scraper.py
+
+      - name: Run schedule scraper
+        continue-on-error: true
+        run: python npb_schedule_scraper.py
+
+      - name: Run standings scraper
+        continue-on-error: true
+        run: python npb_standings_scraper.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add npb_player_stats.json npb_schedule.json npb_standings.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update NPB player stats, schedule, and standings"
+            git push
+          fi
