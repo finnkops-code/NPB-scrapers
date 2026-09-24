@@ -1,11 +1,42 @@
 {
-  "bijgewerkt": "2026-09-24T17:00:28Z",
+  "bijgewerkt": "2026-09-24T21:26:05Z",
   "bron": {
     "yesterday": "https://npb.jp/bis/eng/2026/games/gm20260924.html",
     "today": "https://npb.jp/bis/eng/2026/games/gm20260925.html"
   },
   "season": 2026,
-  "results": [],
+  "results": [
+    {
+      "league": "central",
+      "date": "2026-09-24",
+      "game_number": 23,
+      "venue": "Mazda Stadium",
+      "start_time": null,
+      "away_team": "Hiroshima Toyo Carp",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
+      "away_score": 3,
+      "home_team": "Yomiuri Giants",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_g_l.gif",
+      "home_score": 1,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092401946.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-24",
+      "game_number": 25,
+      "venue": "ES CON FIELD",
+      "start_time": null,
+      "away_team": "Hokkaido Nippon-Ham Fighters",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_f_l.gif",
+      "away_score": 0,
+      "home_team": "Tohoku Rakuten Golden Eagles",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_e_l.gif",
+      "home_score": 6,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092401815.html"
+    }
+  ],
   "schedule": [
     {
       "league": "central",
