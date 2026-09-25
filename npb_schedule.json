@@ -1,11 +1,87 @@
 {
-  "bijgewerkt": "2026-09-25T17:02:33Z",
+  "bijgewerkt": "2026-09-25T21:26:59Z",
   "bron": {
     "yesterday": "https://npb.jp/bis/eng/2026/games/gm20260925.html",
     "today": "https://npb.jp/bis/eng/2026/games/gm20260926.html"
   },
   "season": 2026,
-  "results": [],
+  "results": [
+    {
+      "league": "central",
+      "date": "2026-09-25",
+      "game_number": 23,
+      "venue": "Jingu",
+      "start_time": null,
+      "away_team": "Tokyo Yakult Swallows",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_s_l.gif",
+      "away_score": 5,
+      "home_team": "Chunichi Dragons",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_d_l.gif",
+      "home_score": 4,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092501955.html"
+    },
+    {
+      "league": "central",
+      "date": "2026-09-25",
+      "game_number": 23,
+      "venue": "Yokohama",
+      "start_time": null,
+      "away_team": "YOKOHAMA DeNA BAYSTARS",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_db_l.gif",
+      "away_score": 2,
+      "home_team": "Hanshin Tigers",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
+      "home_score": 1,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092501956.html"
+    },
+    {
+      "league": "central",
+      "date": "2026-09-25",
+      "game_number": 24,
+      "venue": "Mazda Stadium",
+      "start_time": null,
+      "away_team": "Hiroshima Toyo Carp",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
+      "away_score": 3,
+      "home_team": "Yomiuri Giants",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_g_l.gif",
+      "home_score": 2,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092501957.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-25",
+      "game_number": 22,
+      "venue": "Belluna Dome",
+      "start_time": null,
+      "away_team": "Saitama Seibu Lions",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_l_l.gif",
+      "away_score": 2,
+      "home_team": "Chiba Lotte Marines",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_m_l.gif",
+      "home_score": 6,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092501816.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-25",
+      "game_number": 24,
+      "venue": "Kyocera Dome",
+      "start_time": null,
+      "away_team": "ORIX Buffaloes",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_b_l.gif",
+      "away_score": 0,
+      "home_team": "Fukuoka SoftBank Hawks",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_h_l.gif",
+      "home_score": 9,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092501817.html"
+    }
+  ],
   "schedule": [
     {
       "league": "central",
