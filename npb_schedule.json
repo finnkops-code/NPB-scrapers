@@ -1,11 +1,87 @@
 {
-  "bijgewerkt": "2026-09-27T16:51:26Z",
+  "bijgewerkt": "2026-09-27T21:14:55Z",
   "bron": {
     "yesterday": "https://npb.jp/bis/eng/2026/games/gm20260927.html",
     "today": "https://npb.jp/bis/eng/2026/games/gm20260928.html"
   },
   "season": 2026,
-  "results": [],
+  "results": [
+    {
+      "league": "central",
+      "date": "2026-09-27",
+      "game_number": 24,
+      "venue": "Tokyo Dome",
+      "start_time": null,
+      "away_team": "Yomiuri Giants",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_g_l.gif",
+      "away_score": 11,
+      "home_team": "Tokyo Yakult Swallows",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_s_l.gif",
+      "home_score": 0,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092701960.html"
+    },
+    {
+      "league": "central",
+      "date": "2026-09-27",
+      "game_number": 24,
+      "venue": "Yokohama",
+      "start_time": null,
+      "away_team": "YOKOHAMA DeNA BAYSTARS",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_db_l.gif",
+      "away_score": 3,
+      "home_team": "Hiroshima Toyo Carp",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
+      "home_score": 5,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092701961.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-27",
+      "game_number": 24,
+      "venue": "Belluna Dome",
+      "start_time": null,
+      "away_team": "Saitama Seibu Lions",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_l_l.gif",
+      "away_score": 3,
+      "home_team": "Tohoku Rakuten Golden Eagles",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_e_l.gif",
+      "home_score": 2,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092701821.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-27",
+      "game_number": 23,
+      "venue": "ZOZO Marine",
+      "start_time": null,
+      "away_team": "Chiba Lotte Marines",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_m_l.gif",
+      "away_score": 6,
+      "home_team": "Hokkaido Nippon-Ham Fighters",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_f_l.gif",
+      "home_score": 1,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092701822.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-09-27",
+      "game_number": 25,
+      "venue": "MIZUHO PayPay",
+      "start_time": null,
+      "away_team": "Fukuoka SoftBank Hawks",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_h_l.gif",
+      "away_score": 12,
+      "home_team": "ORIX Buffaloes",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_b_l.gif",
+      "home_score": 5,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026092701823.html"
+    }
+  ],
   "schedule": [
     {
       "league": "central",
