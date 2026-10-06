@@ -1,46 +1,46 @@
 {
-  "bijgewerkt": "2026-10-06T06:10:14Z",
+  "bijgewerkt": "2026-10-06T18:16:30Z",
   "bron": {
-    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261005.html",
-    "today": "https://npb.jp/bis/eng/2026/games/gm20261006.html"
+    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261006.html",
+    "today": "https://npb.jp/bis/eng/2026/games/gm20261007.html"
   },
   "season": 2026,
   "results": [
     {
-      "league": "pacific",
-      "date": "2026-10-05",
-      "game_number": 25,
-      "venue": "Rakuten Mobile",
+      "league": "central",
+      "date": "2026-10-06",
+      "game_number": 24,
+      "venue": "Koshien",
       "start_time": null,
-      "away_team": "Tohoku Rakuten Golden Eagles",
-      "away_logo": "https://npb.jp/img/common/logo/2026/logo_e_l.gif",
-      "away_score": 3,
-      "home_team": "Fukuoka SoftBank Hawks",
-      "home_logo": "https://npb.jp/img/common/logo/2026/logo_h_l.gif",
+      "away_team": "Hanshin Tigers",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
+      "away_score": 2,
+      "home_team": "Hiroshima Toyo Carp",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
       "home_score": 1,
       "played": true,
-      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026100501982.html"
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026100601985.html"
     },
     {
       "league": "pacific",
-      "date": "2026-10-05",
-      "game_number": 24,
+      "date": "2026-10-06",
+      "game_number": 25,
       "venue": "ZOZO Marine",
       "start_time": null,
       "away_team": "Chiba Lotte Marines",
       "away_logo": "https://npb.jp/img/common/logo/2026/logo_m_l.gif",
-      "away_score": 1,
+      "away_score": 0,
       "home_team": "Saitama Seibu Lions",
       "home_logo": "https://npb.jp/img/common/logo/2026/logo_l_l.gif",
-      "home_score": 7,
+      "home_score": 3,
       "played": true,
-      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026100501984.html"
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026100601983.html"
     }
   ],
   "schedule": [
     {
       "league": "central",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "game_number": null,
       "venue": "Koshien",
       "start_time": "18:00",
@@ -49,21 +49,6 @@
       "away_score": null,
       "home_team": "Hiroshima Toyo Carp",
       "home_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
-      "home_score": null,
-      "played": false,
-      "boxscore_url": null
-    },
-    {
-      "league": "pacific",
-      "date": "2026-10-06",
-      "game_number": null,
-      "venue": "ZOZO Marine",
-      "start_time": "18:00",
-      "away_team": "Chiba Lotte Marines",
-      "away_logo": "https://npb.jp/img/common/logo/2026/logo_m_l.gif",
-      "away_score": null,
-      "home_team": "Saitama Seibu Lions",
-      "home_logo": "https://npb.jp/img/common/logo/2026/logo_l_l.gif",
       "home_score": null,
       "played": false,
       "boxscore_url": null
