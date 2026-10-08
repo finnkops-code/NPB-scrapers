@@ -1,42 +1,26 @@
 {
-  "bijgewerkt": "2026-10-08T13:16:27Z",
+  "bijgewerkt": "2026-10-08T23:14:18Z",
   "bron": {
-    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261007.html",
-    "today": "https://npb.jp/bis/eng/2026/games/gm20261008.html"
+    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261008.html",
+    "today": "https://npb.jp/bis/eng/2026/games/gm20261009.html"
   },
   "season": 2026,
   "results": [
     {
       "league": "central",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "game_number": 25,
       "venue": "Koshien",
       "start_time": null,
       "away_team": "Hanshin Tigers",
       "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
-      "away_score": 2,
-      "home_team": "Hiroshima Toyo Carp",
-      "home_logo": "https://npb.jp/img/common/logo/2026/logo_c_l.gif",
-      "home_score": 1,
-      "played": true,
-      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026100701986.html"
-    }
-  ],
-  "schedule": [
-    {
-      "league": "central",
-      "date": "2026-10-08",
-      "game_number": null,
-      "venue": "Koshien",
-      "start_time": "18:00",
-      "away_team": "Hanshin Tigers",
-      "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
-      "away_score": null,
+      "away_score": 0,
       "home_team": "Tokyo Yakult Swallows",
       "home_logo": "https://npb.jp/img/common/logo/2026/logo_s_l.gif",
-      "home_score": null,
-      "played": false,
-      "boxscore_url": null
+      "home_score": 4,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026100801989.html"
     }
-  ]
+  ],
+  "schedule": []
 }
