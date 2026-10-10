@@ -1,15 +1,46 @@
 {
-  "bijgewerkt": "2026-10-10T12:19:49Z",
+  "bijgewerkt": "2026-10-10T21:30:47Z",
   "bron": {
-    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261009.html",
-    "today": "https://npb.jp/bis/eng/2026/games/gm20261010.html"
+    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261010.html",
+    "today": "https://npb.jp/bis/eng/2026/games/gm20261011.html"
   },
   "season": 2026,
-  "results": [],
-  "schedule": [
+  "results": [
     {
       "league": "central",
       "date": "2026-10-10",
+      "game_number": 1,
+      "venue": "Tokyo Dome",
+      "start_time": null,
+      "away_team": "Yomiuri Giants",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_g_l.gif",
+      "away_score": 1,
+      "home_team": "YOKOHAMA DeNA BAYSTARS",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_db_l.gif",
+      "home_score": 2,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026101001991.html"
+    },
+    {
+      "league": "pacific",
+      "date": "2026-10-10",
+      "game_number": 1,
+      "venue": "Belluna Dome",
+      "start_time": null,
+      "away_team": "Saitama Seibu Lions",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_l_l.gif",
+      "away_score": 3,
+      "home_team": "Hokkaido Nippon-Ham Fighters",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_f_l.gif",
+      "home_score": 2,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026101001994.html"
+    }
+  ],
+  "schedule": [
+    {
+      "league": "central",
+      "date": "2026-10-11",
       "game_number": null,
       "venue": "Tokyo Dome",
       "start_time": "14:00",
@@ -24,7 +55,7 @@
     },
     {
       "league": "pacific",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "game_number": null,
       "venue": "Belluna Dome",
       "start_time": "14:00",
