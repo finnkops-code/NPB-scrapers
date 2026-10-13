@@ -1,10 +1,26 @@
 {
-  "bijgewerkt": "2026-10-12T15:09:52Z",
+  "bijgewerkt": "2026-10-13T00:30:42Z",
   "bron": {
     "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261012.html",
     "today": "https://npb.jp/bis/eng/2026/games/gm20261013.html"
   },
   "season": 2026,
-  "results": [],
+  "results": [
+    {
+      "league": "pacific",
+      "date": "2026-10-12",
+      "game_number": 3,
+      "venue": "Belluna Dome",
+      "start_time": null,
+      "away_team": "Saitama Seibu Lions",
+      "away_logo": "https://npb.jp/img/common/logo/2026/logo_l_l.gif",
+      "away_score": 1,
+      "home_team": "Hokkaido Nippon-Ham Fighters",
+      "home_logo": "https://npb.jp/img/common/logo/2026/logo_f_l.gif",
+      "home_score": 4,
+      "played": true,
+      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026101201996.html"
+    }
+  ],
   "schedule": []
 }
