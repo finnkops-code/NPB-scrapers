@@ -1,46 +1,15 @@
 {
-  "bijgewerkt": "2026-10-15T11:17:17Z",
+  "bijgewerkt": "2026-10-15T16:48:49Z",
   "bron": {
-    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261014.html",
-    "today": "https://npb.jp/bis/eng/2026/games/gm20261015.html"
+    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261015.html",
+    "today": "https://npb.jp/bis/eng/2026/games/gm20261016.html"
   },
   "season": 2026,
-  "results": [
-    {
-      "league": "central",
-      "date": "2026-10-14",
-      "game_number": 1,
-      "venue": "Koshien",
-      "start_time": null,
-      "away_team": "Hanshin Tigers",
-      "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
-      "away_score": 0,
-      "home_team": "YOKOHAMA DeNA BAYSTARS",
-      "home_logo": "https://npb.jp/img/common/logo/2026/logo_db_l.gif",
-      "home_score": 2,
-      "played": true,
-      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026101401997.html"
-    },
-    {
-      "league": "pacific",
-      "date": "2026-10-14",
-      "game_number": 1,
-      "venue": "MIZUHO PayPay",
-      "start_time": null,
-      "away_team": "Fukuoka SoftBank Hawks",
-      "away_logo": "https://npb.jp/img/common/logo/2026/logo_h_l.gif",
-      "away_score": 6,
-      "home_team": "Hokkaido Nippon-Ham Fighters",
-      "home_logo": "https://npb.jp/img/common/logo/2026/logo_f_l.gif",
-      "home_score": 4,
-      "played": true,
-      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026101402003.html"
-    }
-  ],
+  "results": [],
   "schedule": [
     {
       "league": "central",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "game_number": null,
       "venue": "Koshien",
       "start_time": "18:00",
@@ -55,7 +24,7 @@
     },
     {
       "league": "pacific",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "game_number": null,
       "venue": "MIZUHO PayPay",
       "start_time": "18:00",
