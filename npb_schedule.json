@@ -1,34 +1,18 @@
 {
-  "bijgewerkt": "2026-10-18T10:51:04Z",
+  "bijgewerkt": "2026-10-18T15:45:50Z",
   "bron": {
-    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261017.html",
-    "today": "https://npb.jp/bis/eng/2026/games/gm20261018.html"
+    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261018.html",
+    "today": "https://npb.jp/bis/eng/2026/games/gm20261019.html"
   },
   "season": 2026,
-  "results": [
-    {
-      "league": "central",
-      "date": "2026-10-17",
-      "game_number": 4,
-      "venue": "Koshien",
-      "start_time": null,
-      "away_team": "Hanshin Tigers",
-      "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
-      "away_score": 5,
-      "home_team": "YOKOHAMA DeNA BAYSTARS",
-      "home_logo": "https://npb.jp/img/common/logo/2026/logo_db_l.gif",
-      "home_score": 8,
-      "played": true,
-      "boxscore_url": "https://npb.jp/bis/eng/2026/games/s2026101702000.html"
-    }
-  ],
+  "results": [],
   "schedule": [
     {
       "league": "central",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "game_number": null,
       "venue": "Koshien",
-      "start_time": "14:00",
+      "start_time": "18:00",
       "away_team": "Hanshin Tigers",
       "away_logo": "https://npb.jp/img/common/logo/2026/logo_t_l.gif",
       "away_score": null,
