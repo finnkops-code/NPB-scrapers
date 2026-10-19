@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-19T12:52:54Z",
+  "bijgewerkt": "2026-10-19T22:15:36Z",
   "bron": "https://npb.jp/bis/eng/2026/stats/",
   "season": 2026,
   "teams": [
@@ -2968,7 +2968,7 @@
     {
       "team": "YOKOHAMA DeNA BAYSTARS",
       "league": "central",
-      "name": "Naruse, Syuto",
+      "name": "Naruse, Shuto",
       "hand": "R",
       "g": 28,
       "pa": 73,
@@ -9436,7 +9436,7 @@
     {
       "team": "Tokyo Yakult Swallows",
       "league": "central",
-      "name": "Masui, Shohta",
+      "name": "Masui, Shota",
       "hand": "L",
       "g": 8,
       "pa": 11,
@@ -12124,7 +12124,7 @@
     {
       "team": "Fukuoka SoftBank Hawks",
       "league": "pacific",
-      "name": "Yamamoto, Yuudai",
+      "name": "Yamamoto, Yudai",
       "hand": "R",
       "g": 55,
       "pa": 209,
@@ -25763,7 +25763,7 @@
     {
       "team": "Tokyo Yakult Swallows",
       "league": "central",
-      "name": "Masui, Shohta",
+      "name": "Masui, Shota",
       "hand": "L",
       "g": 8,
       "w": 1,
