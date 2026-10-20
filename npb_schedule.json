@@ -1,26 +1,10 @@
 {
-  "bijgewerkt": "2026-10-20T11:21:50Z",
+  "bijgewerkt": "2026-10-20T16:46:36Z",
   "bron": {
-    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261019.html",
-    "today": "https://npb.jp/bis/eng/2026/games/gm20261020.html"
+    "yesterday": "https://npb.jp/bis/eng/2026/games/gm20261020.html",
+    "today": "https://npb.jp/bis/eng/2026/games/gm20261021.html"
   },
   "season": 2026,
   "results": [],
-  "schedule": [
-    {
-      "league": "pacific",
-      "date": "2026-10-20",
-      "game_number": null,
-      "venue": "MIZUHO PayPay",
-      "start_time": "18:00",
-      "away_team": "Fukuoka SoftBank Hawks",
-      "away_logo": "https://npb.jp/img/common/logo/2026/logo_h_l.gif",
-      "away_score": null,
-      "home_team": "Hokkaido Nippon-Ham Fighters",
-      "home_logo": "https://npb.jp/img/common/logo/2026/logo_f_l.gif",
-      "home_score": null,
-      "played": false,
-      "boxscore_url": null
-    }
-  ]
+  "schedule": []
 }
